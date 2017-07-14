@@ -1,0 +1,25 @@
+{
+  "name": "hot-restaurant",
+  "version": "1.0.0",
+  "description": "restaurant reseravtion system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChristopherAllen777/hot-restaurant.git"
+  },
+  "author": "code team",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChristopherAllen777/hot-restaurant/issues"
+  },
+  "homepage": "https://github.com/ChristopherAllen777/hot-restaurant#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "path": "^0.12.7",
+    "require": "^2.4.20"
+  }
+}
